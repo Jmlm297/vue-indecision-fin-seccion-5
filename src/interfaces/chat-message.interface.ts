@@ -3,4 +3,8 @@ export interface ChatMessage {
   message: string;
   itsMine: boolean;
   image?: string;
+
+
+
+
 }
